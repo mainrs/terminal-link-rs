@@ -2,9 +2,7 @@
 name = "terminal-link"
 description = "Create clickable links inside terminals"
 license = "Apache-2.0 OR MIT"
-repository = "https:/hub.com/SirWindfield/terminal-link-rs"
+repository = "https://github.com/SirWindfield/terminal-link-rs"
 version = "0.1.0"
 authors = ["SirWindfield <SirWindfield@users.noreply.github.com>"]
 edition = "2018"
-
-[dependencies]
